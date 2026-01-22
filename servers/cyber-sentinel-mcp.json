@@ -4,7 +4,7 @@
   "description": "Comprehensive threat intelligence aggregation MCP server that provides unified access to multiple threat intelligence sources for security analysis",
   "longDescription": "Cyber Sentinel eliminates the tedious manual process of querying multiple threat intelligence sources by providing a single, unified interface. Security analysts can now analyze indicators (IPs, domains, hashes, URLs) across multiple sources with a single command, getting aggregated results with confidence scoring. Features include multi-source intelligence aggregation, code security analysis, dependency vulnerability scanning, and comprehensive security reporting.",
   "author": {
-    "name": "Zeng Junxiang",
+    "name": "Ronin Anthology",
     "email": "jx888jx888@gmail.com",
     "url": "https://github.com/jx888-max"
   },
@@ -152,5 +152,5 @@
     "email": "jx888jx888@gmail.com"
   },
   "created": "2025-07-19",
-  "updated": "2025-07-19"
+  "updated": "2026-01-21"
 }
